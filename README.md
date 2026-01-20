@@ -125,6 +125,9 @@ Hasil evaluasi digunakan untuk membandingkan performa Xception, InceptionV3, dan
 📈 Hasil
 Model Xception menunjukkan performa paling stabil dan efisien dalam mendeteksi tingkat kematangan buah dibandingkan model pembanding, terutama dalam hal generalisasi dan efisiensi parameter.
 
+🖼️ Dataset dapat diunduh melalui:
+https://www.kaggle.com/datasets/asadullahprl/fruits-ripeness-classification-dataset/data
+
 👩‍💻 Author
 Nofia Lindawati
 Mahasiswa Teknik Informatika
